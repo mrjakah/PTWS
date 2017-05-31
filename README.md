@@ -1,5 +1,5 @@
 # PTWS
-####Persistent Time and Weather System
+####Persistent Time and Weather System####
 
 PTWS is a script made for Exile that allows time and weather to persist through server restarts. It also has seasons defined by months that will change the temperature. 
 
@@ -10,12 +10,18 @@ PTWS is a script made for Exile that allows time and weather to persist through 
 * Seasons that change the temperature
 * Snow based on temperature and current overcast
 * Time accleration
+* 64bit compatibility.
 
 #### To-do List
 * ~~Add Persistent weather~~
 * ~~Configure seasons based on months~~
-* Make the seasons affect more than the temperature
-* ????
+* ~~~Make the seasons affect more than the temperature~~ <~ Not sure if im gonna do that
+* Get a simple message out to players when body temperature drops below "?"
+* Season change message or toast.. 
+* Some kind of heavy storm with thunder or nuclear storm.
+* Rework the configuration to include min/max value's for certain weather types/months.
+* Add a little more debug information.. 
+* **Open to suggestions...**
 
 ## Installation
 
@@ -39,3 +45,7 @@ PTWS is a script made for Exile that allows time and weather to persist through 
 `ExileClient_system_snow_thread_update = "PTWS\ExileClient_system_snow_thread_update.sqf";`
 
 #### You are done!
+
+#### Credits go where credits due:
+* **MajorXAcE** for the original work.
+* **DirtySanchez** for the database fix and 64Bit compatibility. 
