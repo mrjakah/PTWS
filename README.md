@@ -47,5 +47,8 @@ PTWS is a script made for Exile that allows time and weather to persist through 
 #### You are done!
 
 #### Credits go where credits due:
-* **MajorXAcE** for the original work.
+* **MajorXAcE** for the original work
+* https://github.com/MajorXAcE/PTWS
+
 * **DirtySanchez** for the database fix and 64Bit compatibility. 
+* http://epochmod.site.nfoservers.com/donkeypunch/index.php?topic=724.msg1828
